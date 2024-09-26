@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi I am Riddhi Somani. I am pursuing final year of my Bachelor of Engineering in Computer Science. I am interested in learning new technology and skills. 
+👋🏻 Hi I am Riddhi Somani
+🎓 I am pursuing final year of my Bachelor of Engineering in Computer Science. 
+🔭 I’m currently working on my DSA skills 
+🤝 I’m interested in learning new technology
 
 
 ## 🌐 Socials:
